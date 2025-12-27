@@ -1,0 +1,9 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+sqlparse
+groq
+python-dotenv
+requests
+autopep8
