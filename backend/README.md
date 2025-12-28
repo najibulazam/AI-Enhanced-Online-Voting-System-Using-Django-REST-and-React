@@ -1,5 +1,9 @@
 # Backend - Django REST Framework API
 
+**Author:** Md Najib Ul Azam Mahi  
+**GitHub:** [najibulazam](https://github.com/najibulazam)  
+**Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
 ## Overview
 
 RESTful API backend for the AI-Enhanced Online Voting System. Built with Django REST Framework, featuring JWT authentication and Groq AI integration.

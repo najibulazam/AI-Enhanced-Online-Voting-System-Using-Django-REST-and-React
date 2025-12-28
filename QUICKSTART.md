@@ -1,5 +1,7 @@
 # Quick Start - AI-Enhanced Voting System
 
+**Author:** Md Najib Ul Azam Mahi | **GitHub:** [najibulazam](https://github.com/najibulazam) | **Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
 ## ⚡ 5-Minute Setup
 
 ### Prerequisites Check

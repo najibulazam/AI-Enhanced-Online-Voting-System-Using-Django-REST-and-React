@@ -1,5 +1,13 @@
 # Setup Guide - AI-Enhanced Online Voting System
 
+**Author:** Md Najib Ul Azam Mahi  
+**Email:** azam.mdnajibul@gmail.com  
+**GitHub:** [najibulazam](https://github.com/najibulazam)  
+**LinkedIn:** [najibulazam](https://linkedin.com/in/najibulazam)  
+**Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
+---
+
 Complete step-by-step setup instructions for both backend and frontend.
 
 ## Table of Contents
@@ -51,8 +59,10 @@ Before starting, install these on your system:
 ### Step 1: Navigate to Backend Directory
 
 ```bash
-cd "C:\Users\Najib\Desktop\Voting Application\backend"
+cd backend
 ```
+
+*Note: Use the appropriate path to your project directory*
 
 ### Step 2: Create Virtual Environment
 
@@ -140,8 +150,10 @@ Test in browser: http://127.0.0.1:8000/admin
 ### Step 1: Navigate to Frontend Directory
 
 ```bash
-cd "C:\Users\Najib\Desktop\Voting Application\frontend"
+cd frontend
 ```
+
+*Note: Use the appropriate path to your project directory*
 
 ### Step 2: Install Dependencies
 

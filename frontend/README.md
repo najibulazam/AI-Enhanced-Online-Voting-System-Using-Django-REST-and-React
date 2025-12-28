@@ -1,5 +1,9 @@
 # Frontend - React Application
 
+**Author:** Md Najib Ul Azam Mahi  
+**GitHub:** [najibulazam](https://github.com/najibulazam)  
+**Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
 ## Overview
 
 Modern React frontend for the AI-Enhanced Online Voting System. Built with Vite, React Router, and Bootstrap 5.

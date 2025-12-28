@@ -3,6 +3,12 @@
 
 **Academic Project - Full-Stack Web Development with AI Integration**
 
+**Author:** Md Najib Ul Azam Mahi  
+**Email:** azam.mdnajibul@gmail.com  
+**GitHub:** [najibulazam](https://github.com/najibulazam)  
+**LinkedIn:** [najibulazam](https://linkedin.com/in/najibulazam)  
+**Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
 ---
 
 ## 📊 Project Overview
@@ -598,6 +604,16 @@ This project represents a **complete, modern, full-stack web application** that 
 **Difficulty Level:** Advanced undergraduate / Final year
 **Industry Relevance:** High
 **Portfolio Value:** Excellent
+
+---
+
+## 👨‍💻 Author
+
+**Md Najib Ul Azam Mahi**
+- 📧 Email: azam.mdnajibul@gmail.com
+- 🐙 GitHub: [najibulazam](https://github.com/najibulazam)
+- 💼 LinkedIn: [najibulazam](https://linkedin.com/in/najibulazam)
+- 🔗 Repository: [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
 
 ---
 

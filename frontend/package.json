@@ -2,6 +2,11 @@
   "name": "voting-frontend",
   "version": "1.0.0",
   "description": "AI-Enhanced Online Voting System - React Frontend",
+  "author": "Md Najib Ul Azam Mahi <azam.mdnajibul@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React"
+  },
   "private": true,
   "dependencies": {
     "axios": "^1.6.2",

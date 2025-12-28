@@ -1,5 +1,13 @@
 # AI-Enhanced Online Voting System Using Django REST and React
 
+**Author:** Md Najib Ul Azam Mahi  
+**Email:** azam.mdnajibul@gmail.com  
+**GitHub:** [najibulazam](https://github.com/najibulazam)  
+**LinkedIn:** [najibulazam](https://linkedin.com/in/najibulazam)  
+**Repository:** [AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React](https://github.com/najibulazam/AI-Enhanced-Online-Voting-System-Using-Django-REST-and-React)
+
+---
+
 A modern, full-stack web application for online voting with AI-powered insights. This project demonstrates clean REST API design, React component architecture, and lightweight AI analysis using Groq LLM.
 
 ## 🎯 Project Overview
@@ -426,6 +434,15 @@ For issues or questions:
 1. Check the troubleshooting section
 2. Review API documentation
 3. Check Groq API documentation: [console.groq.com/docs](https://console.groq.com/docs)
+
+---
+
+## 👨‍💻 Author
+
+**Md Najib Ul Azam Mahi**
+- 📧 Email: azam.mdnajibul@gmail.com
+- 🐙 GitHub: [najibulazam](https://github.com/najibulazam)
+- 💼 LinkedIn: [najibulazam](https://linkedin.com/in/najibulazam)
 
 ---
 
